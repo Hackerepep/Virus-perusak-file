@@ -1,1 +1,3 @@
-# Virus-perusak-file
+# pkg update && pkg upgrade
+# pkg install git
+
